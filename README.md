@@ -1,16 +1,213 @@
-# 💫 About Me:
-I’m Aradhy Tripathi.<br>Learning **C++** and **DSA**<br>Practicing daily on **LeetCode**<br>Building small projects to improve.
+# 👋 Hey, I'm Aradhy Tripathi
 
+### 💻 IT Student | Aspiring Software Engineer | Backend & DSA
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aradhy_tr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aradhy-tripathi-969b62371/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aradhy&Tripathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aradhy404@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Development+%7C+DSA+%7C+Problem+Solving;Building+Projects+%7C+Learning+Every+Day;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aradhy404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aradhy404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhy404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/aradhy404">
+    <img src="https://komarev.com/ghpvc/?username=aradhy404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/aradhy404?tab=followers">
+    <img src="https://img.shields.io/github/followers/aradhy404?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aradhy404&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I'm an Information Technology student who enjoys building things, solving problems, and understanding how software works behind the scenes.
+
+- 🎓 B.Tech in **Information Technology**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚙️ Currently focused on **Backend Development**
+- 🌐 Learning **JavaScript, Node.js, Express & APIs**
+- 🗄️ Exploring **Databases and server-side development**
+- 🛠️ Building projects while learning instead of only following tutorials
+- 🎯 Long-term goal: become a strong **Software Engineer / SDE**
+- 📈 Always trying to improve my problem-solving and development skills
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="Languages" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" alt="Backend and Databases" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+JavaScript
+        ↓
+Node.js + Express
+        ↓
+REST APIs
+        ↓
+Databases
+        ↓
+Backend Projects
+        ↓
+Better Software Engineering
+```
+
+---
+
+## 💻 Featured Projects
+
+### 🔹 DSA Visualizer
+An interactive web project for visualizing sorting algorithms and understanding how they work.
+
+**Highlights:**
+- Array generation and visualization
+- Bubble Sort
+- Selection Sort
+- Sorting speed control
+- Pause / Resume functionality
+- Algorithm complexity information
+- Interactive UI
+
+🔗 **Live:** https://aradhy404.github.io/DSA-visualizer/
+
+---
+
+### 🔹 More Projects Coming...
+
+I'm continuously building projects as I learn new technologies.
+
+---
+
+## 🧩 Problem Solving
+
+I regularly practice programming problems to improve my:
+
+- Data Structures
+- Algorithms
+- Logical thinking
+- Time & space complexity
+- Problem-solving skills
+
+### 🧠 DSA Roadmap
+
+```text
+Arrays
+  ↓
+Strings
+  ↓
+Linked Lists
+  ↓
+Stacks & Queues
+  ↓
+Binary Search
+  ↓
+Trees
+  ↓
+Graphs
+  ↓
+Dynamic Programming
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aradhy404&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradhy404&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aradhy404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Strengthen DSA fundamentals
+- [ ] Solve more LeetCode problems
+- [ ] Become comfortable with JavaScript
+- [ ] Build strong backend projects
+- [ ] Learn databases properly
+- [ ] Build and deploy production-style APIs
+- [ ] Improve Git & GitHub workflow
+- [ ] Build a solid software engineering portfolio
+- [ ] Prepare for internships
+
+---
+
+## 📈 My Development Journey
+
+```text
+     DSA
+      │
+      ├──────────────┐
+      ↓              ↓
+ Problem Solving   C++
+      │
+      ↓
+ Backend Development
+      │
+      ├── JavaScript
+      ├── Node.js
+      ├── Express
+      ├── REST APIs
+      └── Databases
+              │
+              ↓
+         Real Projects
+              │
+              ↓
+       Software Engineer
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aradhy404">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aradhy-tripathi-969b62371/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency beats intensity.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, feel free to explore my repositories!
+</p>
